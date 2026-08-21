@@ -81,12 +81,10 @@ title: دليل مواصفات الحواسيب لطلاب IAU CCSIT
 </style>
 
 <!-- Content Wrapper for Right-to-Left (RTL) -->
-<div class="rtl-wrapper" dir="rtl">
+<div class="rtl-wrapper" dir="rtl" markdown="1">
 
 <div class="btn-container">
   <button id="theme-toggle" class="action-btn">🌙 تفعيل الوضع الليلي</button>
-  <!-- يمكنك تغيير الرابط أدناه إلى أي صفحة ويب تريدها -->
-  
 </div>
 
 # دليل مواصفات الحواسيب لطلاب CCSIT
@@ -98,7 +96,7 @@ title: دليل مواصفات الحواسيب لطلاب IAU CCSIT
 
 ---
 
-<details>
+<details markdown="1">
   <summary>1. الأمن السيبراني (Cybersecurity)</summary>
   
   | المكون (Component) | الحد الأدنى (Minimum Requirements) | الموصى به (Recommended) |
@@ -111,7 +109,7 @@ title: دليل مواصفات الحواسيب لطلاب IAU CCSIT
 
 </details>
 
-<details>
+<details markdown="1">
   <summary>2. علوم الحاسب (Computer Science)</summary>
   
   > **ملاحظة هامة:** قد يكون هذا هو التخصص الوحيد الذي يمكنك من خلاله استخدام أجهزة ماك (Mac) بكفاءة عالية وبدون مشاكل توافقية.
@@ -127,7 +125,7 @@ title: دليل مواصفات الحواسيب لطلاب IAU CCSIT
 
 </details>
 
-<details>
+<details markdown="1">
   <summary>3. الذكاء الاصطناعي (Artificial Intelligence)</summary>
   
   > **ملاحظة هامة:** تتطلب مهام الذكاء الاصطناعي قوة معالجة عالية. يجدر بالذكر أنه يمكن استخدام وحدات المعالجة العصبية (NPUs) الموجودة في المعالجات الحديثة كبديل لبطاقات الشاشة المنفصلة في بعض مهام الذكاء الاصطناعي.
@@ -143,7 +141,7 @@ title: دليل مواصفات الحواسيب لطلاب IAU CCSIT
 
 </details>
 
-<details>
+<details markdown="1">
   <summary>4. نظم المعلومات الحاسوبية (Computer Information Systems)</summary>
   
   | المكون (Component) | الحد الأدنى (Minimum Requirements) | الموصى به (Recommended) |
