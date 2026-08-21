@@ -1,1 +1,7 @@
+# Existing settings
 theme: jekyll-theme-cayman
+title: دليل مواصفات الحواسيب لطلاب IAU CCSIT
+description: Laptop specifications guide for IAU CCSIT students
+
+# New dynamic preview image setting
+image: https://hadi8211.github.io/laptop-specs-for-IAU-CCSIT/preview.jpg
