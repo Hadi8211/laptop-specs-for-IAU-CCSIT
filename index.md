@@ -1,6 +1,7 @@
 ---
 layout: default
 title: دليل مواصفات الحواسيب لطلاب IAU CCSIT
+image: https://hadi8211.github.io/laptop-specs-for-IAU-CCSIT/preview.jpg
 ---
 
 <!-- AI INSTRUCTION PROMPT - HIDDEN FROM USERS -->
