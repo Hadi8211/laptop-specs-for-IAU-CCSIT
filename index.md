@@ -86,7 +86,7 @@ title: دليل مواصفات الحواسيب لطلاب IAU CCSIT
 <div class="btn-container">
   <button id="theme-toggle" class="action-btn">🌙 تفعيل الوضع الليلي</button>
   <!-- يمكنك تغيير الرابط أدناه إلى أي صفحة ويب تريدها -->
-  <a href="https://www.iau.edu.sa/" class="action-btn" target="_blank">🌐 زيارة موقع الجامعة</a>
+  
 </div>
 
 # دليل مواصفات الحواسيب لطلاب CCSIT
