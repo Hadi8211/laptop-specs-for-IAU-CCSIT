@@ -120,7 +120,7 @@ title: دليل مواصفات الحواسيب لطلاب IAU CCSIT
     color: #0b3a6b;
   }
   body.dark-mode details.sub-details summary { color: #cce3ff; }
-  details.sub-details ul { margin-top: 10px; margin-bottom: 0; }
+  details.sub-details ul { margin-top: 10px; margin-bottom: 0; padding-right: 20px; }
   
   /* Table Alignment */
   table { margin-top: 15px; width: 100%; border-collapse: collapse; }
@@ -158,13 +158,13 @@ title: دليل مواصفات الحواسيب لطلاب IAU CCSIT
 
 ### 🛒 نصيحة هامة حول خيارات الشراء
 
-**لماذا نقترح أجهزة مستعملة أو مجددة؟**
+**لماذا نقترح أجهزة مستعملة أو مجددة؟**  
 الأجهزة المقترحة بالأسفل (مثل فئات ThinkPad و Precision و ZBook) هي في الأصل أجهزة فئة أعمال ومحطات عمل (Workstations). نحن ننصح بشرائها مستعملة أو مجددة (Refurbished) لسبب وجيه جدا: إنها تتمتع بجودة تصنيع فائقة، واعتمادية عالية لتحمل ضغط العمل، وتتميز بسهولة كبيرة في الإصلاح وتحديث القطع (الرام والتخزين) مقارنة بمعظم الأجهزة المتوفرة اليوم.
 
-**ماذا لو أردت شراء لابتوب جديد بالكامل؟**
+**ماذا لو أردت شراء لابتوب جديد بالكامل؟**  
 يمكنك بالتأكيد شراء أجهزة جديدة، ولكن تذكر أن الأجهزة الاستهلاكية الجديدة ليست بالضرورة اعتمادية أو سهلة الإصلاح (العديد منها يأتي بقطع ملحومة باللوحة الأم لا يمكن تغييرها). إذا قررت شراء جهاز جديد، **من الضروري جدا قراءة ومشاهدة المراجعات (Reviews)** الخاصة به للتأكد من جودة التبريد والاعتمادية قبل دفع أي مبلغ.
 
-**أجهزة Framework (البديل الجديد القابل للإصلاح):**
+**أجهزة Framework (البديل الجديد القابل للإصلاح):**  
 إذا كنت ترغب بجهاز جديد ومصمم خصيصا ليكون قابلا للإصلاح والترقية بالكامل، يمكنك النظر في أجهزة **Framework**. هي حواسيب ثورية في هذا المجال، ولكن ضع في اعتبارك هذه التحديات قبل الشراء:
 * السعر الابتدائي يعتبر مرتفعا مقارنة بالأجهزة المنافسة.
 * غير متوفرة بشكل واسع في الأسواق المحلية، وقد تتطلب عملية طلب وشحن دولي.
@@ -175,96 +175,96 @@ title: دليل مواصفات الحواسيب لطلاب IAU CCSIT
 *اضغط على اسم تخصصك أدناه لعرض المواصفات المطلوبة:*
 
 <details markdown="1">
-  <summary>1. الأمن السيبراني (Cybersecurity)</summary>
-  
-  | المكون (Component) | الحد الأدنى (Minimum Requirements) | الموصى به (Recommended) |
-  | :--- | :--- | :--- |
-  | **نظام التشغيل (OS)** | Windows 11 (64-bit) | Windows 11 Pro (64-bit) |
-  | **الذاكرة العشوائية (RAM)** | 16 GB DDR4 / DDR5 | 32 GB DDR5 (or user-upgradeable) |
-  | **المعالج (CPU)** | Intel Core i5 / AMD Ryzen 5 (6+ cores) | Intel Core i7 / Ultra 7 or AMD Ryzen 7 (8+ cores) |
-  | **مساحة التخزين (SSD)** | 512 GB PCIe NVMe SSD | 1 TB PCIe 4.0 NVMe SSD |
-  | **كرت الشاشة (GPU)** | Integrated Graphics (Intel Iris / AMD) | Dedicated NVIDIA RTX 3050 / 4050 (4–6 GB) |
+<summary>1. الأمن السيبراني (Cybersecurity)</summary>
 
-  <details class="sub-details" markdown="1">
-    <summary>💻 أجهزة مقترحة تلبي هذه المواصفات</summary>
-    <ul>
-      <li><strong>أجهزة تلبي الحد الأدنى:</strong> ThinkPad T14 Gen 2 AMD, Dell Latitude 7420, HP EliteBook 845 G8.</li>
-      <li><strong>أجهزة تلبي الموصى به (محطات عمل قوية):</strong> ThinkPad P1 Gen 4, Dell Precision 7550, HP ZBook Fury 15 G8.</li>
-    </ul>
-  </details>
+| المكون (Component) | الحد الأدنى (Minimum Requirements) | الموصى به (Recommended) |
+| :--- | :--- | :--- |
+| **نظام التشغيل (OS)** | Windows 11 (64-bit) | Windows 11 Pro (64-bit) |
+| **الذاكرة العشوائية (RAM)** | 16 GB DDR4 / DDR5 | 32 GB DDR5 (or user-upgradeable) |
+| **المعالج (CPU)** | Intel Core i5 / AMD Ryzen 5 (6+ cores) | Intel Core i7 / Ultra 7 or AMD Ryzen 7 (8+ cores) |
+| **مساحة التخزين (SSD)** | 512 GB PCIe NVMe SSD | 1 TB PCIe 4.0 NVMe SSD |
+| **كرت الشاشة (GPU)** | Integrated Graphics (Intel Iris / AMD) | Dedicated NVIDIA RTX 3050 / 4050 (4–6 GB) |
+
+<details class="sub-details">
+<summary>💻 أجهزة مقترحة تلبي هذه المواصفات</summary>
+<ul>
+<li><strong>أجهزة تلبي الحد الأدنى:</strong> ThinkPad T14 Gen 2 AMD, Dell Latitude 7420, HP EliteBook 845 G8.</li>
+<li><strong>أجهزة تلبي الموصى به (محطات عمل قوية):</strong> ThinkPad P1 Gen 4, Dell Precision 7550, HP ZBook Fury 15 G8.</li>
+</ul>
+</details>
 
 </details>
 
 <details markdown="1">
-  <summary>2. علوم الحاسب (Computer Science)</summary>
-  
-  <div class="highlight-note" markdown="1">
-  💡 **ملاحظة هامة:** قد يكون هذا هو التخصص الوحيد الذي يمكنك من خلاله استخدام أجهزة ماك (Mac) بكفاءة عالية وبدون مشاكل توافقية تذكر مع بيئات البرمجة.
-  </div>
-  
-  | المكون (Component) | الحد الأدنى (Minimum Requirements) | الموصى به (Recommended) |
-  | :--- | :--- | :--- |
-  | **نظام التشغيل (OS)** | Windows 11 (64-bit) or macOS (M2/M3/M4) | Windows 11 Pro (with WSL2) or macOS |
-  | **الذاكرة العشوائية (RAM)** | 16 GB DDR4 / DDR5 / Unified | 32 GB DDR5 or 24 GB+ Unified Memory |
-  | **المعالج (CPU)** | 6-Core CPU (Intel i5, Ryzen 5, Apple M2) | 8+ Core CPU (Intel Ultra 7/i7, Ryzen 7, Apple M3/M4 Pro) |
-  | **مساحة التخزين (SSD)** | 512 GB PCIe NVMe SSD | 1 TB PCIe 4.0 NVMe SSD |
-  | **كرت الشاشة (GPU)** | Integrated (Intel Iris Xe, Radeon, Apple GPU) | Dedicated NVIDIA RTX 4050 / 4060 (6–8 GB) |
+<summary>2. علوم الحاسب (Computer Science)</summary>
 
-  <details class="sub-details" markdown="1">
-    <summary>💻 أجهزة مقترحة تلبي هذه المواصفات</summary>
-    <ul>
-      <li><strong>أجهزة تلبي الحد الأدنى:</strong> ThinkPad X1 Carbon Gen 9, ThinkPad T14 Gen 2 AMD.</li>
-      <li><strong>أجهزة تلبي الموصى به (محطات عمل قوية):</strong> Dell Precision 7560, ThinkPad P1 Gen 4.</li>
-    </ul>
-  </details>
+<div class="highlight-note" markdown="1">
+💡 **ملاحظة هامة:** قد يكون هذا هو التخصص الوحيد الذي يمكنك من خلاله استخدام أجهزة ماك (Mac) بكفاءة عالية وبدون مشاكل توافقية تذكر مع بيئات البرمجة.
+</div>
+
+| المكون (Component) | الحد الأدنى (Minimum Requirements) | الموصى به (Recommended) |
+| :--- | :--- | :--- |
+| **نظام التشغيل (OS)** | Windows 11 (64-bit) or macOS (M2/M3/M4) | Windows 11 Pro (with WSL2) or macOS |
+| **الذاكرة العشوائية (RAM)** | 16 GB DDR4 / DDR5 / Unified | 32 GB DDR5 or 24 GB+ Unified Memory |
+| **المعالج (CPU)** | 6-Core CPU (Intel i5, Ryzen 5, Apple M2) | 8+ Core CPU (Intel Ultra 7/i7, Ryzen 7, Apple M3/M4 Pro) |
+| **مساحة التخزين (SSD)** | 512 GB PCIe NVMe SSD | 1 TB PCIe 4.0 NVMe SSD |
+| **كرت الشاشة (GPU)** | Integrated (Intel Iris Xe, Radeon, Apple GPU) | Dedicated NVIDIA RTX 4050 / 4060 (6–8 GB) |
+
+<details class="sub-details">
+<summary>💻 أجهزة مقترحة تلبي هذه المواصفات</summary>
+<ul>
+<li><strong>أجهزة تلبي الحد الأدنى:</strong> ThinkPad X1 Carbon Gen 9, ThinkPad T14 Gen 2 AMD.</li>
+<li><strong>أجهزة تلبي الموصى به (محطات عمل قوية):</strong> Dell Precision 7560, ThinkPad P1 Gen 4.</li>
+</ul>
+</details>
 
 </details>
 
 <details markdown="1">
-  <summary>3. الذكاء الاصطناعي (Artificial Intelligence)</summary>
-  
-  <div class="highlight-note" markdown="1">
-  🚀 **ملاحظة هامة جدا (NPU vs GPU):** تتطلب مهام الذكاء الاصطناعي قوة معالجة عالية، ولكن **لست مضطرا للاعتماد على كروت الشاشة المنفصلة (GPU) فقط!** يمكنك الآن اختيار أجهزة حديثة تعتمد على وحدات المعالجة العصبية (NPUs) المدمجة كبديل ممتاز لتوفير الطاقة. 
-  <br><br>
-  *تنويه بخصوص الـ RAM:* نظرا لأن الـ NPU يشارك الذاكرة العشوائية الأساسية للجهاز (Shared Memory) عكس الـ GPU الذي يمتلك ذاكرته الخاصة (VRAM)، فقد تحتاج لزيادة حجم الـ RAM. ومع ذلك، تظل سعة **32GB** خيارا ممتازا وكافيا جدا لتغطية هذه الحاجة بكفاءة.
-  </div>
-  
-  | المكون (Component) | الحد الأدنى (Minimum Requirements) | الموصى به (Recommended) |
-  | :--- | :--- | :--- |
-  | **المعالجة الذكية (GPU / NPU)** | **GPU:** RTX 4050 (6 GB) <br> *-- OR --* <br> **NPU:** Integrated NPU (e.g., Intel Core Ultra / Ryzen 8000) | **GPU:** RTX 4060 / 4070 (8 GB+) <br> *-- OR --* <br> **NPU:** High-end NPU (e.g., Snapdragon X / Intel Core Ultra Series 2) |
-  | **الذاكرة العشوائية (RAM)** | 16 GB DDR5 | 32 GB DDR5 (dual-channel or expandable) |
-  | **المعالج (CPU)** | Intel Core i7 / AMD Ryzen 7 (8 cores) | Intel Core Ultra 7 / AMD Ryzen 7 / 9 (8–12 cores) |
-  | **مساحة التخزين (SSD)** | 512 GB PCIe 4.0 NVMe SSD | 1 TB – 2 TB PCIe 4.0 NVMe SSD |
-  | **نظام التشغيل (OS)** | Windows 11 (64-bit) with WSL2 | Windows 11 Pro (WSL2 / Ubuntu) |
+<summary>3. الذكاء الاصطناعي (Artificial Intelligence)</summary>
 
-  <details class="sub-details" markdown="1">
-    <summary>💻 أجهزة مقترحة تلبي هذه المواصفات</summary>
-    <ul>
-      <li><strong>أجهزة تلبي الحد الأدنى (تتطلب كرت شاشة 6GB):</strong> Dell Precision 7550 (Quadro RTX 3000), ThinkPad P15 Gen 2 (RTX A3000).</li>
-      <li><strong>أجهزة تلبي الموصى به (تتطلب كرت شاشة 8GB+):</strong> ThinkPad P1 Gen 4 (RTX 3070), Dell Precision 7560 (RTX A4000), HP ZBook Fury 15 G8.</li>
-    </ul>
-  </details>
+<div class="highlight-note" markdown="1">
+🚀 **ملاحظة هامة جدا (NPU vs GPU):** تتطلب مهام الذكاء الاصطناعي قوة معالجة عالية، ولكن **لست مضطرا للاعتماد على كروت الشاشة المنفصلة (GPU) فقط!** يمكنك الآن اختيار أجهزة حديثة تعتمد على وحدات المعالجة العصبية (NPUs) المدمجة كبديل ممتاز لتوفير الطاقة. 
+<br><br>
+*تنويه بخصوص الـ RAM:* نظرا لأن الـ NPU يشارك الذاكرة العشوائية الأساسية للجهاز (Shared Memory) عكس الـ GPU الذي يمتلك ذاكرته الخاصة (VRAM)، فقد تحتاج لزيادة حجم الـ RAM. ومع ذلك، تظل سعة **32GB** خيارا ممتازا وكافيا جدا لتغطية هذه الحاجة بكفاءة.
+</div>
+
+| المكون (Component) | الحد الأدنى (Minimum Requirements) | الموصى به (Recommended) |
+| :--- | :--- | :--- |
+| **المعالجة الذكية (GPU / NPU)** | **GPU:** RTX 4050 (6 GB) <br> *-- OR --* <br> **NPU:** Integrated NPU (e.g., Intel Core Ultra / Ryzen 8000) | **GPU:** RTX 4060 / 4070 (8 GB+) <br> *-- OR --* <br> **NPU:** High-end NPU (e.g., Snapdragon X / Intel Core Ultra Series 2) |
+| **الذاكرة العشوائية (RAM)** | 16 GB DDR5 | 32 GB DDR5 (dual-channel or expandable) |
+| **المعالج (CPU)** | Intel Core i7 / AMD Ryzen 7 (8 cores) | Intel Core Ultra 7 / AMD Ryzen 7 / 9 (8–12 cores) |
+| **مساحة التخزين (SSD)** | 512 GB PCIe 4.0 NVMe SSD | 1 TB – 2 TB PCIe 4.0 NVMe SSD |
+| **نظام التشغيل (OS)** | Windows 11 (64-bit) with WSL2 | Windows 11 Pro (WSL2 / Ubuntu) |
+
+<details class="sub-details">
+<summary>💻 أجهزة مقترحة تلبي هذه المواصفات</summary>
+<ul>
+<li><strong>أجهزة تلبي الحد الأدنى (تتطلب كرت شاشة 6GB):</strong> Dell Precision 7550 (Quadro RTX 3000), ThinkPad P15 Gen 2 (RTX A3000).</li>
+<li><strong>أجهزة تلبي الموصى به (تتطلب كرت شاشة 8GB+):</strong> ThinkPad P1 Gen 4 (RTX 3070), Dell Precision 7560 (RTX A4000), HP ZBook Fury 15 G8.</li>
+</ul>
+</details>
 
 </details>
 
 <details markdown="1">
-  <summary>4. نظم المعلومات الحاسوبية (Computer Information Systems)</summary>
-  
-  | المكون (Component) | الحد الأدنى (Minimum Requirements) | الموصى به (Recommended) |
-  | :--- | :--- | :--- |
-  | **نظام التشغيل (OS)** | Windows 11 Home (64-bit) | Windows 11 Pro (64-bit) |
-  | **الذاكرة العشوائية (RAM)** | 16 GB DDR4 / DDR5 | 16 GB – 32 GB DDR5 |
-  | **المعالج (CPU)** | Intel Core i5 / AMD Ryzen 5 (6 cores) | Intel Core Ultra 5 / i7 or AMD Ryzen 7 (8 cores) |
-  | **مساحة التخزين (SSD)** | 512 GB PCIe NVMe SSD | 1 TB PCIe 4.0 NVMe SSD |
-  | **كرت الشاشة (GPU)** | Integrated (Intel Iris Xe / Arc, AMD Radeon) | Integrated or Entry Discrete (NVIDIA RTX 3050 / 4050) |
+<summary>4. نظم المعلومات الحاسوبية (Computer Information Systems)</summary>
 
-  <details class="sub-details" markdown="1">
-    <summary>💻 أجهزة مقترحة تلبي هذه المواصفات</summary>
-    <ul>
-      <li><strong>أجهزة تلبي الحد الأدنى:</strong> ThinkPad T14 Gen 1 AMD, HP EliteBook 845 G8.</li>
-      <li><strong>أجهزة ممتازة وموصى بها:</strong> ThinkPad X1 Carbon Gen 9, Dell Latitude 7420, ThinkPad T14 Gen 2 AMD.</li>
-    </ul>
-  </details>
+| المكون (Component) | الحد الأدنى (Minimum Requirements) | الموصى به (Recommended) |
+| :--- | :--- | :--- |
+| **نظام التشغيل (OS)** | Windows 11 Home (64-bit) | Windows 11 Pro (64-bit) |
+| **الذاكرة العشوائية (RAM)** | 16 GB DDR4 / DDR5 | 16 GB – 32 GB DDR5 |
+| **المعالج (CPU)** | Intel Core i5 / AMD Ryzen 5 (6 cores) | Intel Core Ultra 5 / i7 or AMD Ryzen 7 (8 cores) |
+| **مساحة التخزين (SSD)** | 512 GB PCIe NVMe SSD | 1 TB PCIe 4.0 NVMe SSD |
+| **كرت الشاشة (GPU)** | Integrated (Intel Iris Xe / Arc, AMD Radeon) | Integrated or Entry Discrete (NVIDIA RTX 3050 / 4050) |
+
+<details class="sub-details">
+<summary>💻 أجهزة مقترحة تلبي هذه المواصفات</summary>
+<ul>
+<li><strong>أجهزة تلبي الحد الأدنى:</strong> ThinkPad T14 Gen 1 AMD, HP EliteBook 845 G8.</li>
+<li><strong>أجهزة ممتازة وموصى بها:</strong> ThinkPad X1 Carbon Gen 9, Dell Latitude 7420, ThinkPad T14 Gen 2 AMD.</li>
+</ul>
+</details>
 
 </details>
 
