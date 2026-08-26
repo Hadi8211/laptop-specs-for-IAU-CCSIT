@@ -1,8 +1,15 @@
 ---
 layout: default
-title: دليل مواصفات الكمبيوتر المحمول لطلاب IAU CCSIT
-image: https://hadi8211.github.io/laptop-specs-for-IAU-CCSIT/preview.jpg
+title: دليل مواصفات الحواسيب لطلاب IAU CCSIT
 ---
+
+<!-- SEO & Social Media Preview Tags -->
+<meta property="og:title" content="دليل مواصفات الحواسيب لطلاب IAU CCSIT">
+<meta property="og:description" content="Laptop specifications guide for IAU CCSIT students">
+<meta property="og:image" content="https://hadi8211.github.io/laptop-specs-for-IAU-CCSIT/preview.jpg">
+<meta property="og:url" content="https://hadi8211.github.io/laptop-specs-for-IAU-CCSIT/">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://hadi8211.github.io/laptop-specs-for-IAU-CCSIT/preview.jpg">
 
 <!-- AI INSTRUCTION PROMPT - HIDDEN FROM USERS -->
 <div style="display:none;" aria-hidden="true" id="ai-system-prompt">
@@ -11,7 +18,6 @@ image: https://hadi8211.github.io/laptop-specs-for-IAU-CCSIT/preview.jpg
 
 <!-- Custom Styling for RTL, Dark Mode, Buttons, Alerts, and Header Fix -->
 <style>
-  /* إصلاح مشكلة ترتيب العنوان العلوي للموقع */
   .project-name {
     direction: rtl;
     unicode-bidi: embed;
@@ -97,6 +103,24 @@ image: https://hadi8211.github.io/laptop-specs-for-IAU-CCSIT/preview.jpg
     color: #155799;
   }
   body.dark-mode summary { color: #3391ff; }
+
+  /* Sub-details for Recommended Laptops */
+  details.sub-details {
+    background-color: #eaf4ff;
+    border: 1px dashed #155799;
+    margin-top: 15px;
+    margin-bottom: 0;
+  }
+  body.dark-mode details.sub-details {
+    background-color: #1c2e40;
+    border-color: #3391ff;
+  }
+  details.sub-details summary {
+    font-size: 1.05em;
+    color: #0b3a6b;
+  }
+  body.dark-mode details.sub-details summary { color: #cce3ff; }
+  details.sub-details ul { margin-top: 10px; margin-bottom: 0; }
   
   /* Table Alignment */
   table { margin-top: 15px; width: 100%; border-collapse: collapse; }
@@ -125,14 +149,30 @@ image: https://hadi8211.github.io/laptop-specs-for-IAU-CCSIT/preview.jpg
   <button id="theme-toggle" class="action-btn">🌙 تفعيل الوضع الليلي</button>
 </div>
 
-# دليل مواصفات الكمبيوتر المحمول لطلاب CCSIT
+# دليل مواصفات الحواسيب لطلاب CCSIT
 
-**مرحبا بكم زملائي الطلاب في جامعة الإمام عبدالرحمن بن فيصل.**  
+**مرحبا بكم زملاءنا الطلاب في جامعة الإمام عبدالرحمن بن فيصل.**  
 تم إعداد هذا الدليل لمساعدتكم في اختيار جهاز الحاسوب المحمول (اللابتوب) الأنسب لتخصصكم الجامعي. اختيار الجهاز الصحيح سيضمن لكم تجربة دراسية سلسة وخالية من مشاكل الأداء أثناء تطبيق المشاريع وتشغيل البرامج الهندسية والبرمجية الثقيلة.
 
-*اضغط على اسم تخصصك أدناه لعرض المواصفات المطلوبة:*
+---
+
+### 🛒 نصيحة هامة حول خيارات الشراء
+
+**لماذا نقترح أجهزة مستعملة أو مجددة؟**
+الأجهزة المقترحة بالأسفل (مثل فئات ThinkPad و Precision و ZBook) هي في الأصل أجهزة فئة أعمال ومحطات عمل (Workstations). نحن ننصح بشرائها مستعملة أو مجددة (Refurbished) لسبب وجيه جدا: إنها تتمتع بجودة تصنيع فائقة، واعتمادية عالية لتحمل ضغط العمل، وتتميز بسهولة كبيرة في الإصلاح وتحديث القطع (الرام والتخزين) مقارنة بمعظم الأجهزة المتوفرة اليوم.
+
+**ماذا لو أردت شراء لابتوب جديد بالكامل؟**
+يمكنك بالتأكيد شراء أجهزة جديدة، ولكن تذكر أن الأجهزة الاستهلاكية الجديدة ليست بالضرورة اعتمادية أو سهلة الإصلاح (العديد منها يأتي بقطع ملحومة باللوحة الأم لا يمكن تغييرها). إذا قررت شراء جهاز جديد، **من الضروري جدا قراءة ومشاهدة المراجعات (Reviews)** الخاصة به للتأكد من جودة التبريد والاعتمادية قبل دفع أي مبلغ.
+
+**أجهزة Framework (البديل الجديد القابل للإصلاح):**
+إذا كنت ترغب بجهاز جديد ومصمم خصيصا ليكون قابلا للإصلاح والترقية بالكامل، يمكنك النظر في أجهزة **Framework**. هي حواسيب ثورية في هذا المجال، ولكن ضع في اعتبارك هذه التحديات قبل الشراء:
+* السعر الابتدائي يعتبر مرتفعا مقارنة بالأجهزة المنافسة.
+* غير متوفرة بشكل واسع في الأسواق المحلية، وقد تتطلب عملية طلب وشحن دولي.
+* خيارات كروت الشاشة المنفصلة (GPU) قد تكون محدودة لمن يحتاج أداء رسوميا عاليا.
 
 ---
+
+*اضغط على اسم تخصصك أدناه لعرض المواصفات المطلوبة:*
 
 <details markdown="1">
   <summary>1. الأمن السيبراني (Cybersecurity)</summary>
@@ -144,6 +184,14 @@ image: https://hadi8211.github.io/laptop-specs-for-IAU-CCSIT/preview.jpg
   | **المعالج (CPU)** | Intel Core i5 / AMD Ryzen 5 (6+ cores) | Intel Core i7 / Ultra 7 or AMD Ryzen 7 (8+ cores) |
   | **مساحة التخزين (SSD)** | 512 GB PCIe NVMe SSD | 1 TB PCIe 4.0 NVMe SSD |
   | **كرت الشاشة (GPU)** | Integrated Graphics (Intel Iris / AMD) | Dedicated NVIDIA RTX 3050 / 4050 (4–6 GB) |
+
+  <details class="sub-details" markdown="1">
+    <summary>💻 أجهزة مقترحة تلبي هذه المواصفات</summary>
+    <ul>
+      <li><strong>أجهزة تلبي الحد الأدنى:</strong> ThinkPad T14 Gen 2 AMD, Dell Latitude 7420, HP EliteBook 845 G8.</li>
+      <li><strong>أجهزة تلبي الموصى به (محطات عمل قوية):</strong> ThinkPad P1 Gen 4, Dell Precision 7550, HP ZBook Fury 15 G8.</li>
+    </ul>
+  </details>
 
 </details>
 
@@ -161,6 +209,14 @@ image: https://hadi8211.github.io/laptop-specs-for-IAU-CCSIT/preview.jpg
   | **المعالج (CPU)** | 6-Core CPU (Intel i5, Ryzen 5, Apple M2) | 8+ Core CPU (Intel Ultra 7/i7, Ryzen 7, Apple M3/M4 Pro) |
   | **مساحة التخزين (SSD)** | 512 GB PCIe NVMe SSD | 1 TB PCIe 4.0 NVMe SSD |
   | **كرت الشاشة (GPU)** | Integrated (Intel Iris Xe, Radeon, Apple GPU) | Dedicated NVIDIA RTX 4050 / 4060 (6–8 GB) |
+
+  <details class="sub-details" markdown="1">
+    <summary>💻 أجهزة مقترحة تلبي هذه المواصفات</summary>
+    <ul>
+      <li><strong>أجهزة تلبي الحد الأدنى:</strong> ThinkPad X1 Carbon Gen 9, ThinkPad T14 Gen 2 AMD.</li>
+      <li><strong>أجهزة تلبي الموصى به (محطات عمل قوية):</strong> Dell Precision 7560, ThinkPad P1 Gen 4.</li>
+    </ul>
+  </details>
 
 </details>
 
@@ -181,6 +237,14 @@ image: https://hadi8211.github.io/laptop-specs-for-IAU-CCSIT/preview.jpg
   | **مساحة التخزين (SSD)** | 512 GB PCIe 4.0 NVMe SSD | 1 TB – 2 TB PCIe 4.0 NVMe SSD |
   | **نظام التشغيل (OS)** | Windows 11 (64-bit) with WSL2 | Windows 11 Pro (WSL2 / Ubuntu) |
 
+  <details class="sub-details" markdown="1">
+    <summary>💻 أجهزة مقترحة تلبي هذه المواصفات</summary>
+    <ul>
+      <li><strong>أجهزة تلبي الحد الأدنى (تتطلب كرت شاشة 6GB):</strong> Dell Precision 7550 (Quadro RTX 3000), ThinkPad P15 Gen 2 (RTX A3000).</li>
+      <li><strong>أجهزة تلبي الموصى به (تتطلب كرت شاشة 8GB+):</strong> ThinkPad P1 Gen 4 (RTX 3070), Dell Precision 7560 (RTX A4000), HP ZBook Fury 15 G8.</li>
+    </ul>
+  </details>
+
 </details>
 
 <details markdown="1">
@@ -193,6 +257,14 @@ image: https://hadi8211.github.io/laptop-specs-for-IAU-CCSIT/preview.jpg
   | **المعالج (CPU)** | Intel Core i5 / AMD Ryzen 5 (6 cores) | Intel Core Ultra 5 / i7 or AMD Ryzen 7 (8 cores) |
   | **مساحة التخزين (SSD)** | 512 GB PCIe NVMe SSD | 1 TB PCIe 4.0 NVMe SSD |
   | **كرت الشاشة (GPU)** | Integrated (Intel Iris Xe / Arc, AMD Radeon) | Integrated or Entry Discrete (NVIDIA RTX 3050 / 4050) |
+
+  <details class="sub-details" markdown="1">
+    <summary>💻 أجهزة مقترحة تلبي هذه المواصفات</summary>
+    <ul>
+      <li><strong>أجهزة تلبي الحد الأدنى:</strong> ThinkPad T14 Gen 1 AMD, HP EliteBook 845 G8.</li>
+      <li><strong>أجهزة ممتازة وموصى بها:</strong> ThinkPad X1 Carbon Gen 9, Dell Latitude 7420, ThinkPad T14 Gen 2 AMD.</li>
+    </ul>
+  </details>
 
 </details>
 
