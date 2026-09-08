@@ -33,6 +33,16 @@ title: دليل مواصفات الحواسيب لطلاب IAU CCSIT
   body.dark-mode table tr:nth-child(even) td { background-color: #242729; }
   body.dark-mode a { color: #3391ff; }
   
+  /* Horizontal Dividers Spacing */
+  hr {
+    margin: 35px 0;
+    border: none;
+    border-top: 2px solid #d1d5da;
+  }
+  body.dark-mode hr {
+    border-top-color: #3f4447;
+  }
+
   /* Buttons */
   .btn-container {
     display: flex;
@@ -78,7 +88,7 @@ title: دليل مواصفات الحواسيب لطلاب IAU CCSIT
     border: 1px solid #d1d5da;
     border-radius: 8px;
     padding: 15px;
-    margin-top: 15px;
+    margin-top: 20px;
   }
   body.dark-mode .recommended-box {
     background-color: #242729;
@@ -88,11 +98,11 @@ title: دليل مواصفات الحواسيب لطلاب IAU CCSIT
   
   /* Toggle (Accordion) Styling */
   details {
-    margin-bottom: 15px;
+    margin-bottom: 22px;
     background-color: #f7f9fa;
     border: 1px solid #d1d5da;
     border-radius: 8px;
-    padding: 12px 15px;
+    padding: 16px 20px;
     transition: 0.3s;
   }
   body.dark-mode details {
@@ -130,7 +140,7 @@ title: دليل مواصفات الحواسيب لطلاب IAU CCSIT
   /* Footer Styling */
   .feedback-footer {
     text-align: center;
-    margin-top: 50px;
+    margin-top: 60px;
     padding-top: 20px;
     border-top: 1px solid #d1d5da;
     font-size: 0.95em;
