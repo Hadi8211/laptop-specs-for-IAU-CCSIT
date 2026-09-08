@@ -3,6 +3,10 @@ layout: default
 title: دليل مواصفات الحواسيب لطلاب IAU CCSIT
 ---
 
+<!-- GoatCounter Analytics -->
+<script data-goatcounter="https://hadi225.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+
 <!-- SEO & Social Media Preview Tags -->
 <meta property="og:title" content="دليل مواصفات الحواسيب لطلاب IAU CCSIT">
 <meta property="og:description" content="Laptop specifications guide for IAU CCSIT students">
@@ -295,6 +299,10 @@ title: دليل مواصفات الحواسيب لطلاب IAU CCSIT
 <div class="feedback-footer">
   هل لديك أي اقتراحات أو واجهت مشكلة؟ 
   <a href="https://github.com/hadi8211/laptop-specs-for-IAU-CCSIT/issues" target="_blank">افتح تذكرة (Issue) على GitHub من هنا</a>
+  <br><br>
+  <span style="font-size: 0.85em; color: #888;">
+    🛡️ الخصوصية: هذا الموقع يستخدم أداة إحصائيات مفتوحة المصدر (بدون Cookies) لمعرفة عدد الزيارات فقط. لا يتم تتبع أو جمع أي بيانات شخصية.
+  </span>
 </div>
 
 </div> <!-- نهاية حاوية RTL -->
