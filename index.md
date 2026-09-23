@@ -407,16 +407,16 @@ title: دليل مواصفات الحواسيب لطلاب IAU CCSIT
 | :--- | :--- | :--- |
 | **نظام التشغيل (OS)** | Windows 11 or macOS | Windows 11 Pro (WSL2) or macOS |
 | **الذاكرة العشوائية (RAM)** | 16 GB Unified / DDR5 | 32 GB DDR5 or 24 GB+ Unified |
-| **المعالج (CPU)** | Core i5 / Ryzen 5 / M2 (6+ cores) | Core i7 / Ryzen 7 / M3 Pro |
+| **المعالج (CPU)** | Core i5 / Ryzen 5 / M4/M5 (6+ cores) | Core i7 / Ryzen 7 / M4/M5 Pro |
 | **مساحة التخزين (SSD)** | 512 GB PCIe NVMe SSD | 1 TB PCIe 4.0 NVMe SSD |
-| **كرت الشاشة (GPU)** | Integrated Graphics / Apple GPU | Dedicated RTX 4050/4060 (6–8GB) |
+| **كرت الشاشة (GPU)** | Integrated Graphics / Apple GPU | Dedicated RTX 5050/5060 (6–8GB) |
 
 </div>
 
 <div class="recommended-box" markdown="1">
 **💻 أجهزة مقترحة تلبي هذه المواصفات:**
-* **أجهزة تلبي الحد الأدنى:** ThinkPad X1 Carbon Gen 9, ThinkPad T14 Gen 2 AMD, MacBook Air M2.
-* **أجهزة تلبي الموصى به:** Dell Precision 7560, ThinkPad P1 Gen 4, MacBook Pro M3 Pro.
+* **أجهزة تلبي الحد الأدنى:** ThinkPad X1 Carbon Gen 9, ThinkPad T14 Gen 2 AMD, MacBook Air M4/M5.
+* **أجهزة تلبي الموصى به:** Dell Precision 7560, ThinkPad P1 Gen 4, MacBook Pro M4/M5 Pro.
 </div>
 
 </details>
@@ -432,7 +432,7 @@ title: دليل مواصفات الحواسيب لطلاب IAU CCSIT
 
 | المكون (Component) | الحد الأدنى (Minimum) | الموصى به (Recommended) |
 | :--- | :--- | :--- |
-| **المعالجة (GPU/NPU)** | GPU: RTX 4050 (6 GB) OR NPU | GPU: RTX 4060/4070 (8 GB+) OR High-end NPU |
+| **المعالجة (GPU/NPU)** | GPU: RTX 5050 (6 GB) OR NPU | GPU: RTX 5060/5070 (8 GB+) OR High-end NPU |
 | **الذاكرة العشوائية (RAM)** | 16 GB DDR5 | 32 GB DDR5 (Expandable) |
 | **المعالج (CPU)** | Core i7 / Ryzen 7 (8 cores) | Core Ultra 7 / Ryzen 9 (8–12 cores) |
 | **مساحة التخزين (SSD)** | 512 GB PCIe 4.0 NVMe SSD | 1 TB - 2 TB PCIe 4.0 NVMe SSD |
@@ -443,7 +443,7 @@ title: دليل مواصفات الحواسيب لطلاب IAU CCSIT
 <div class="recommended-box" markdown="1">
 **💻 أجهزة مقترحة تلبي هذه المواصفات:**
 * **الحد الأدنى (كرت 6GB):** Dell Precision 7550 (Quadro RTX 3000), ThinkPad P15 Gen 2 (RTX A3000).
-* **الموصى به (كرت 8GB+):** ThinkPad P1 Gen 4 (RTX 3070), Dell Precision 7560 (RTX A4000).
+* **الموصى به (كرت 8GB+):** ThinkPad P1 Gen 4 (RTX 5070/4070), Dell Precision 7560 (RTX A4000).
 </div>
 
 </details>
@@ -459,7 +459,7 @@ title: دليل مواصفات الحواسيب لطلاب IAU CCSIT
 | **الذاكرة العشوائية (RAM)** | 16 GB DDR4 / DDR5 | 16 GB – 32 GB DDR5 |
 | **المعالج (CPU)** | Core i5 / Ryzen 5 (6 cores) | Core Ultra 5/i7 or Ryzen 7 |
 | **مساحة التخزين (SSD)** | 512 GB PCIe NVMe SSD | 1 TB PCIe 4.0 NVMe SSD |
-| **كرت الشاشة (GPU)** | Integrated Graphics | Entry Discrete (RTX 3050/4050) |
+| **كرت الشاشة (GPU)** | Integrated Graphics | Entry Discrete (RTX 5050/4050) |
 
 </div>
 
